@@ -41,5 +41,6 @@ contract ValueTypes{
     function enumToUint() external view returns(uint){
         return uint(action);
     }
+    
 
 }
